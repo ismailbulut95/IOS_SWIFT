@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/ismailbulut/Desktop/Firebase_Login_SwiftUI_2020-master/AuthenticationApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/ismailbulut/Desktop/AuthenticationApp/AuthenticationApp.xcodeproj">
+   </FileRef>
+</Workspace>
